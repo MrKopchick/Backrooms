@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85098277cf4e11047ba9ac8a7d436e6d, type: 3}
+  m_Name: tile_data_Corner
+  m_EditorClassIdentifier: 
+  tilePrefab: {fileID: 5620515526567531929, guid: 47b53ed6c7d269f42bfbba9d47472f66, type: 3}
+  connectTop: 0
+  connectRight: 0
+  connectBottom: 1
+  connectLeft: 1

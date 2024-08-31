@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85098277cf4e11047ba9ac8a7d436e6d, type: 3}
+  m_Name: tile_data_Hall
+  m_EditorClassIdentifier: 
+  tilePrefab: {fileID: 4870465721563733916, guid: 459b217e4c1cb2a4eb4834d5f374b74d, type: 3}
+  connectTop: 0
+  connectRight: 1
+  connectBottom: 0
+  connectLeft: 1
