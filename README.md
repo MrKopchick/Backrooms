@@ -15,5 +15,8 @@ Experience the Backrooms here: [The Backrooms on Itch.io](https://mrkopchick.itc
 - Shader Labs
 - C#
 
+## Screenshot
+![The Backrooms](https://github.com/MrKopchick/Backrooms/blob/main/backrooms-screenshot.png)
+
 ## Developer
 Developed by [MrKopchick](https://github.com/MrKopchick).
